@@ -1,10 +1,8 @@
 # The Make School Vision
 
-## Building a blueprint for a new model of higher education.
+Building a blueprint for a new model of higher education.
 
-<div id="section_0">
-  <h2> Abstract </h2>
-</div>
+## Abstract
 
 Make School is redesigning higher education for the 21st century. Our emphasis is on ensuring
 relevance of education for the modern economy and accessibility to students of all backgrounds.
@@ -35,9 +33,7 @@ This document is intended to share our vision, our pedagogy, and our learnings t
 policymakers, and students. We hope our experiment will inspire innovation throughout the higher
 education landscape and accelerate the broader conscious capitalism movement.
 
-<div id="section_1">
-  <h2> 1. Challenges of higher education </h2>
-</div>
+## 1. Challenges of higher education
 
 Our world is growing increasingly complex at an increasingly rapid pace. The software revolution is
 reshaping the economy, with 50% of existing jobs expected to be replaced by software and automation.
@@ -76,9 +72,7 @@ education that fails to respond to their needs because society has left them no 
 Further reading about the state of higher education:
 [make.sc/industry-research](https://make.sc/industry-research)
 
-<div id="section_2">
-  <h2> 2. Origins of Make School </h2>
-</div>
+## 2. Origins of Make School
 
 The first classes at Make School took place 6 years ago at a home in Palo Alto. It was a program
 born from the same movement and with the same ideology we hold today, though a vastly different
@@ -134,9 +128,7 @@ higher education. We've spent the last four years learning through application a
 attempt to answer two fundamental questions. If we were to go back to college, what would our ideal
 experience be? What do we imagine college will look like in 20 years?
 
-<div id="section_3">
-  <h2> 3. A new model of higher education </h2>
-</div>
+## 3. A new model of higher education
 
 The Product University is a moniker for a new model of higher education that stands in contrast to
 research universities and liberal arts colleges. Students attend four-year colleges for one of three
@@ -180,9 +172,7 @@ Product University vision statement from December 2014:
 Product University in TechCrunch:
 [techcrunch.com/2015/07/21/make-university/](https://techcrunch.com/2015/07/21/make-university/)
 
-<div id="section_4">
-  <h2> 4. Serving an inclusive community of Makers </h2>
-</div>
+## 4. Serving an inclusive community of Makers
 
 ![Origin of Make School Applicants](https://res.cloudinary.com/makeschool/image/upload/t_fill_780_360/v1/Vision/origin-applicants.png)
 
@@ -227,9 +217,7 @@ creating impact through technology.
 Student profile of Uchenna Aguocha: [make.sc/uchenna](https://make.sc/uchenna)  
 Student profile of Leslie Kim: [make.sc/leslie](https://make.sc/leslie)
 
-<div id="section_5">
-  <h2> 5. Aims of a Make School education </h2>
-</div>
+## 5. Aims of a Make School education
 
 Designing an effective education requires making choices surrounding the aims and outcomes of the
 education. Diversity of institutions is important to create pathways for students with differing
@@ -277,9 +265,7 @@ Call to arms to incoming students:
 [make.sc/state-of-the-future](https://make.sc/state-of-the-future)  
 Make School graduation and outcomes data: [make.sc/outcomes-data](https://make.sc/outcomes-data)
 
-<div id="section_6">
-  <h2> 6. Liberal arts, computing, and character </h2>
-</div>
+## 6. Liberal arts, computing, and character
 
 In order to accomplish our aims, we've designed our education on four cornerstones:
 
@@ -310,9 +296,7 @@ them understand and navigate personal development and relationships with others.
 Make School Course Offerings: [make.sc/course-offerings](https://make.sc/course-offerings)  
 Make School Character Development Podcast: [make.sc/podcast](https://make.sc/podcast)
 
-<div id="section_7">
-  <h2> 7. Progressive education pedagogy </h2>
-</div>
+## 7. Progressive education pedagogy
 
 Effective delivery of education is as essential as having relevant objectives and content. The
 context and mode in which something is taught will impact absorption and retention of information.
@@ -468,9 +452,7 @@ Software Product Development 1.1 syllabus: [make.sc/spd-syllabus](http://www.mak
 Data Science 2.1 syllabus: [make.sc/ds-syllabus](http://www.make.sc/ds-syllabus)  
 Job readiness rubric: [make.sc/job-rubric](http://www.make.sc/job-rubric)
 
-<div id="section_8">
-  <h2> 8. Impact of teachers in a blended classroom </h2>
-</div>
+## 8. Impact of teachers in a blended classroom
 
 The progressive education model creates great opportunities for technology to augment (rather than
 replace) human-centric education. Gains from technology have proved limited over the past decades
@@ -577,9 +559,7 @@ Make School lesson preparation guide: [make.sc/lesson-prep](http://www.make.sc/l
 Sample of Make School digital content: [make.sc/web-dev](http://www.make.sc/web-dev)  
 Sample of Make School interactive coding tutorial: [make.sc/code](http://www.make.sc/code)
 
-<div id="section_9">
-  <h2> 9. Developing the complete human </h2>
-</div>
+## 9. Developing the complete human
 
 Experiences outside the classroom are as vital to students’ development as the education inside it.
 College is often the first time people live away from home, make lifelong friends of different
@@ -637,9 +617,7 @@ Make School Character Development Podcast: [make.sc/podcast](http://www.make.sc/
 Make School Code of Conduct: [make.sc/code-of-conduct](http://www.make.sc/code-of-conduct)  
 Make School Harassment Policy: [make.sc/harassment-policy](http://www.make.sc/harassment-policy)
 
-<div id="section_10">
-  <h2> 10. Long-term career coaching </h2>
-</div>
+## 10. Long-term career coaching
 
 A college degree is considered to be helpful throughout one’s career. Specifically, the general
 education, the institution’s brand to attract employers, and the alumni network to discover
@@ -680,9 +658,7 @@ Coaching rubric: [make.sc/coaching](http://www.make.sc/coaching)
 Outcomes support: [make.sc/outcomes](http://www.make.sc/outcomes)  
 Mentorship program: [make.sc/mentor](http://www.make.sc/mentor)
 
-<div id="section_11">
-  <h2> 11. Systemic encoding of principles </h2>
-</div>
+## 11. Systemic encoding of principles
 
 As we’ve spent more time speaking with leaders of higher ed institutions, we’ve noticed many of our
 viewpoints feel far less radical than they did just a few years ago. The modern crop of university
@@ -738,9 +714,7 @@ existing systems to enable innovation and experimentation. We must establish pro
 and failure acceptable, and allow graceful recovery. If designed well, these systems can help ensure
 sustainability and relevance of our institution over hundreds of years.
 
-<div id="section_12">
-  <h2> 12. Proving scale and efficacy </h2>
-</div>
+## 12. Proving scale and efficacy
 
 The early results of our experiment have so far supported our hypotheses. Our outcomes are on par
 with top universities, our students are engaged and inspired in the classroom, our alumni are
@@ -788,9 +762,7 @@ Survey of college presidents on fiscal sustainability -
 Data on efficacy of Ivy League institutions -
 [www.nber.org/papers/w7322](https://www.nber.org/papers/w7322)
 
-<div id="section_13">
-  <h2> 13. Enabling innovation through higher education </h2>
-</div>
+## 13. Enabling innovation through higher education
 
 We hope our impact can extend further than the students who walk through our doors. Our students
 represent a small fraction of the hundreds of millions of students who seek higher education around
@@ -813,9 +785,7 @@ enable others to implement our innovations. We also hope to partner with college
 as we are with Dominican University of California - to provide a subset of our courses as a computer
 science minor on their campus to equip them to prepare students for the 21st-century economy.
 
-<div id="section_14">
-  <h2> 14. 5-10 year vision </h2>
-</div>
+## 14. 5-10 year vision
 
 The final sections of this document should be considered as a thought experiment rather than a
 thesis. It is impractical to predict so far into the future for a young organization, though an
@@ -851,9 +821,7 @@ next step in their professional careers or founding their next startup. Our stud
 to open source projects under the guidance of industry professionals, ensuring relevance of their
 education and enabling their work to create value for the world.
 
-<div id="section_15">
-  <h2> 15. 20 year vision </h2>
-</div>
+## 15. 20 year vision
 
 Our hope for Make School in the long term is to inspire a movement beyond the confines and structure
 of a specific mold of institution. At the core, Make School is about empowerment and belonging. A
