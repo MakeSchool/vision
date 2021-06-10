@@ -14,10 +14,11 @@ We predict a sustainable and scalable model of college can be built upon the fol
 - Uniting students from a broad socioeconomic range who possess grit (as measured by non-traditional
   metrics) and a passion for impact and innovation
 - Ensuring students are the core focus of the institution
-- Systemically aligning incentives of the institution with students and providing downside protection via (EIBR) Extended Income Based Repayment
+- Systemically aligning incentives of the institution with students and providing downside
+  protection via (EIBR) Extended Income Based Repayment
 
-Make School is more than a college. It's an ideology, a movement, and a community. To our students, Make
-School provides, above all else, empowerment and belonging.
+Make School is more than a college. It's an ideology, a movement, and a community. To our students,
+Make School provides, above all else, empowerment and belonging.
 
 Our institution is a non-profit focused on serving the following mission:
 
@@ -154,10 +155,10 @@ campus model will be increasingly used, with students spending 2 intensive years
 campus learning from instructors, peers, and industry mentors, followed by online degree completion
 during post-employment terms.
 
-Finances: Extended Income Based Repayment (EIBR) will extend the federal IBR program to all private 
-and public student debt. This will allow students to receive the lowest cost of capital financing 
+Finances: Extended Income Based Repayment (EIBR) will extend the federal IBR program to all private
+and public student debt. This will allow students to receive the lowest cost of capital financing
 for their education while remaining protected from unaffordable debt burdens if unemployed or
-underemployed. EIBR will also create a systemic incentive for the institution to maintain strong 
+underemployed. EIBR will also create a systemic incentive for the institution to maintain strong
 employment rates as stronger employment means less money is needed to fund EIBR.
 
 Accreditation: Accreditation standards are intended to take efficacy of education and graduate
@@ -179,10 +180,10 @@ Product University in TechCrunch:
 Where our applicants come from
 
 Democratizing access to top quality higher education and career pathways is a core focus of our
-organization. We offer financial aid through Title IV (protected by EIBR). We seek to create new avenues of upward
-mobility for underrepresented populations who are often adverse to traditional debt and unable to
-spend 4 years out of the workforce. We hope models like ours can help address systemic inequality as
-the economy evolves.
+organization. We offer financial aid through Title IV (protected by EIBR). We seek to create new
+avenues of upward mobility for underrepresented populations who are often adverse to traditional
+debt and unable to spend 4 years out of the workforce. We hope models like ours can help address
+systemic inequality as the economy evolves.
 
 In order to achieve this, we designed our admissions process to consider criteria tangential to
 traditional institutions and to serve as a coach rather than a gatekeeper. We do not ask for SAT
@@ -689,11 +690,11 @@ overworked team members and new hires.
 
 A few examples of systemic principles at Make School:
 
-EIBR: Offering downside protection for student debt in form of Extended Income Based Repayment 
-directly ties Make School’s financial incentives to student success. Our institutional focus 
-is forced on outcomes rather than inputs as better outcomes will lead to less money spent on EIBR. 
-This incentive also drives us to hold a tight feedback loop with industry and ensure our education 
-stays relevant to the needs of the 21st-century economy.
+EIBR: Offering downside protection for student debt in form of Extended Income Based Repayment
+directly ties Make School’s financial incentives to student success. Our institutional focus is
+forced on outcomes rather than inputs as better outcomes will lead to less money spent on EIBR. This
+incentive also drives us to hold a tight feedback loop with industry and ensure our education stays
+relevant to the needs of the 21st-century economy.
 
 Student Satisfaction: One of our key organizational metrics - which we use to define success of our
 leadership - is a measure of student satisfaction. Expecting leadership to report on this metric
