@@ -22,8 +22,8 @@ Make School provides, above all else, empowerment and belonging.
 
 Our institution is a non-profit focused on serving the following mission:
 
-“To create avenues of upward mobility for students of all backgrounds, empowering such students to
-contribute to society through science and technology innovation.”
+> “To create avenues of upward mobility for students of all backgrounds, empowering such students to
+> contribute to society through science and technology innovation.”
 
 Our new model of college has enrolled over 300 students, coming from all walks of life and all
 corners of the globe. Majority of our students come from low to mid-income families, while nearly
@@ -71,6 +71,7 @@ Wikipedia, and grows empowered to drive social change on Facebook is begrudgingl
 education that fails to respond to their needs because society has left them no choice.
 
 Further reading about the state of higher education:
+
 [make.sc/industry-research](https://make.sc/industry-research)
 
 ## 2. Origins of Make School
@@ -169,7 +170,8 @@ revisited. Accreditors such as WASC have demonstrated willingness to explore new
 accreditation, allowing for greater variability in educational models and accelerated innovation.
 
 Product University vision statement from December 2014:
-[make.sc/product-university](https://make.sc/product-university)  
+[make.sc/product-university](https://make.sc/product-university)
+
 Product University in TechCrunch:
 [techcrunch.com/2015/07/21/make-university/](https://techcrunch.com/2015/07/21/make-university/)
 
@@ -215,7 +217,8 @@ summer program to engage students in our model of education. Early signs point t
 a global brand appealing to iGen students who seek progressive education and are passionate about
 creating impact through technology.
 
-Student profile of Uchenna Aguocha: [make.sc/uchenna](https://make.sc/uchenna)  
+Student profile of Uchenna Aguocha: [make.sc/uchenna](https://make.sc/uchenna)
+
 Student profile of Leslie Kim: [make.sc/leslie](https://make.sc/leslie)
 
 ## 5. Aims of a Make School education
@@ -261,9 +264,11 @@ Students develop a broad knowledge base to understand multi-faceted issues, cons
 principles to identify solutions, and apply systems-level thinking to predict how solutions will
 need to adapt to scale.
 
-Student profile of Kenny Batista: [make.sc/kenny](https://make.sc/kenny)  
+Student profile of Kenny Batista: [make.sc/kenny](https://make.sc/kenny)
+
 Call to arms to incoming students:
-[make.sc/state-of-the-future](https://make.sc/state-of-the-future)  
+[make.sc/state-of-the-future](https://make.sc/state-of-the-future)
+
 Make School graduation and outcomes data: [make.sc/outcomes-data](https://make.sc/outcomes-data)
 
 ## 6. Liberal arts, computing, and character
@@ -294,7 +299,8 @@ or skill, but by their grit, resilience, courage, empathy, candor and kindness. 
 build character through coaching, guest speakers, discussions and group projects designed to help
 them understand and navigate personal development and relationships with others.
 
-Make School Course Offerings: [make.sc/course-offerings](https://make.sc/course-offerings)  
+Make School Course Offerings: [make.sc/course-offerings](https://make.sc/course-offerings)
+
 Make School Character Development Podcast: [make.sc/podcast](https://make.sc/podcast)
 
 ## 7. Progressive education pedagogy
@@ -322,64 +328,43 @@ prefers pull services (eg. self-driven learning with on-demand access to instruc
 services (eg. traditional lectures). There are 5 core components that compose an effective
 education, each an answer to a core usability question:
 
-Where am I? Goal setting helps demonstrate relevance of what students are learning and how it will
-support their growth. This is akin to navigation and menus on a website or app.
+- **Where am I?**<br/> _Goal setting_ helps demonstrate relevance of what students are learning and
+  how it will support their growth. This is akin to navigation and menus on a website or app.
 
-What should I be doing? Prioritization helps students understand what they should be focused on to
-efficiently achieve their goals. This is akin to the blur test on a website or app (ie. which
-elements attract your attention to interact with).
+- **What should I be doing?**<br/> _Prioritization_ helps students understand what they should be
+  focused on to efficiently achieve their goals. This is akin to the blur test on a website or app
+  (ie. which elements attract your attention to interact with).
 
-What tools do I need? Processes to absorb knowledge equip students with the information needed to
-achieve their goals. This is akin to tutorials or tooltips - ideally blended with action.
+- **What tools do I need?** <br/> Processes to _absorb knowledge_ equip students with the
+  information needed to achieve their goals. This is akin to tutorials or tooltips - ideally blended
+  with action.
 
-What action should I take? Opportunities to apply knowledge enable students to make concrete
-progress towards their goals. This is akin to taking the core action on a website or app.
+- **What action should I take?**<br/> Opportunities to _apply knowledge_ enable students to make
+  concrete progress towards their goals. This is akin to taking the core action on a website or app.
 
-Do I feel safe? A key component of effective learning without a strong parallel to digital products
-is whether students feel a sense of belonging and security. This support is best provided by
-coaching, community building, and support outside the classroom.
+- **Do I feel safe?** <br /> A key component of effective learning without a strong parallel to
+  digital products is whether students feel a sense of belonging and security. This support is best
+  provided by coaching, community building, and support outside the classroom.
 
-The mainstream education model (used by most secondary and post-secondary institutions) prioritizes
-absorbing knowledge over contextualizing and applying knowledge. Teachers generally push knowledge
-to students through textbooks and lectures.
+The **mainstream education model** (used by most secondary and post-secondary institutions)
+prioritizes absorbing knowledge over contextualizing and applying knowledge. Teachers generally push
+knowledge to students through textbooks and lectures.
 
-Goal Setting
+|               Goal Setting               |              Prioritization               |     Absorbing Knowledge      |      Applying Knowledge      |
+| :--------------------------------------: | :---------------------------------------: | :--------------------------: | :--------------------------: |
+|       Students<br />(self driven)        |        Students<br />(self driven)        | Teachers<br />(via lectures) | Students<br />(via homework) |
+| Parents + Counselors<br />(if available) | Parents + Counselors<br />(if available)` |                              |                              |
 
-Prioritization
+The **flipped classroom model** broadens the role of teachers to support students in both absorbing
+and applying knowledge, increasing emphasis on application. Students absorb knowledge through
+pre-work delivered digitally prior to class, while class time is leveraged to discuss content and
+apply knowledge through projects and exercises. Students pull support from teachers as needed (and
+often in 1:1 settings) as they work through projects.
 
-Absorbing Knowledge
-
-Applying Knowledge
-
-**Students** (self driven) **Parents + Counselors** (if available)
-
-**Students** (self driven) **Parents + Counselors** (if available)
-
-**Teachers** (via lectures)
-
-**Students** (via homework)
-
-The flipped classroom model broadens the role of teachers to support students in both absorbing and
-applying knowledge, increasing emphasis on application. Students absorb knowledge through pre-work
-delivered digitally prior to class, while class time is leveraged to discuss content and apply
-knowledge through projects and exercises. Students pull support from teachers as needed (and often
-in 1:1 settings) as they work through projects.
-
-Goal Setting
-
-Prioritization
-
-Absorbing Knowledge
-
-Applying Knowledge
-
-**Students** (self driven) **Parents + Counselors** (if available)
-
-**Students** (self driven) **Parents + Counselors** (if available)
-
-**Students** (via digital content) **Teachers** (via small group review)
-
-**Students** (via classwork) **Students** (via classroom support)
+|               Goal Setting               |              Prioritization              |          Absorbing Knowledge           |          Applying Knowledge           |
+| :--------------------------------------: | :--------------------------------------: | :------------------------------------: | :-----------------------------------: |
+|       Students<br />(self driven)        |       Students<br />(self driven)        |  Students<br />(via digital content)   |     Students<br />(via classwork)     |
+| Parents + Counselors<br />(if available) | Parents + Counselors<br />(if available) | Teachers<br />(via small group review) | Students<br />(via classroom support) |
 
 The progressive education model - used at Make School - further broadens the role of teachers to
 encompass goal setting and prioritization, with an emphasis on purpose-driven learning. Instead of
@@ -393,22 +378,11 @@ motivated to absorb requisite knowledge to further their projects. Counterintuit
 often exposed to concepts in projects prior to learning the underlying theory, which helps evidence
 relevance of concepts.
 
-Goal Setting
-
-Prioritization
-
-Absorbing Knowledge
-
-Applying Knowledge
-
-**Students** (self driven) **Industry Mentors** (via coffee) **Teachers** (via coaching)
-
-**Students** (self driven) **Software** (via task management) **Teachers** (via coaching)
-
-**Students** (via project work) **Peers** (via group work) **Teachers** (via 1:1 project support)
-
-**Students** (via online content) **Peers** (via discussion groups) **Teachers** (via small group
-review)
+|            Goal Setting            |           Prioritization            |           Absorbing Knowledge           |           Applying Knowledge           |
+| :--------------------------------: | :---------------------------------: | :-------------------------------------: | :------------------------------------: |
+|    Students<br />(self driven)     |     Students<br />(self driven)     |    Students<br />(via project work)     |   Students<br />(via online content)   |
+| Industry Mentors<br />(via coffee) | Software<br />(via task management) |       Peers<br />(via group work)       |   Peers<br />(via discussion groups)   |
+|    Teachers<br />(via coaching)    |    Teachers<br />(via coaching)     | Teachers<br />(via 1:1 project support) | Teachers<br />(via small group review) |
 
 Beyond emphasizing purpose-driven learning, we seek to build contexts that create immediate
 real-world relevance for students. Many class projects involve shipping products that students can
@@ -448,9 +422,12 @@ Most importantly, this blend inspires a deep love of learning and creativity tha
 to make the most of their education.
 
 Progressive education helps to address inequality:
-[https://www.chronicle.com/article...](https://www.chronicle.com/article/Traditional-Teaching-May/243339)  
-Software Product Development 1.1 syllabus: [make.sc/spd-syllabus](http://www.make.sc/spd-syllabus)  
-Data Science 2.1 syllabus: [make.sc/ds-syllabus](http://www.make.sc/ds-syllabus)  
+[https://www.chronicle.com/article...](https://www.chronicle.com/article/Traditional-Teaching-May/243339)
+
+Software Product Development 1.1 syllabus: [make.sc/spd-syllabus](http://www.make.sc/spd-syllabus)
+
+Data Science 2.1 syllabus: [make.sc/ds-syllabus](http://www.make.sc/ds-syllabus)
+
 Job readiness rubric: [make.sc/job-rubric](http://www.make.sc/job-rubric)
 
 ## 8. Impact of teachers in a blended classroom
@@ -555,9 +532,12 @@ learning environments - to further integrate technology as a cornerstone of the 
 experience. We view blended learning as a classroom experience redesigned from the ground up, with
 software and teachers respectively solving problems they are best suited for.
 
-Make School instructor rubric: [make.sc/instructor-rubric](http://www.make.sc/instructor-rubric)  
-Make School lesson preparation guide: [make.sc/lesson-prep](http://www.make.sc/lesson-prep)  
-Sample of Make School digital content: [make.sc/web-dev](http://www.make.sc/web-dev)  
+Make School instructor rubric: [make.sc/instructor-rubric](http://www.make.sc/instructor-rubric)
+
+Make School lesson preparation guide: [make.sc/lesson-prep](http://www.make.sc/lesson-prep)
+
+Sample of Make School digital content: [make.sc/web-dev](http://www.make.sc/web-dev)
+
 Sample of Make School interactive coding tutorial: [make.sc/code](http://www.make.sc/code)
 
 ## 9. Developing the complete human
@@ -614,8 +594,10 @@ ecosystem. We plan to increase expectations for students to be civically engaged
 opportunities and by building software to help power civic initiatives run by city government and
 local organizations.
 
-Make School Character Development Podcast: [make.sc/podcast](http://www.make.sc/podcast)  
-Make School Code of Conduct: [make.sc/code-of-conduct](http://www.make.sc/code-of-conduct)  
+Make School Character Development Podcast: [make.sc/podcast](http://www.make.sc/podcast)
+
+Make School Code of Conduct: [make.sc/code-of-conduct](http://www.make.sc/code-of-conduct)
+
 Make School Harassment Policy: [make.sc/harassment-policy](http://www.make.sc/harassment-policy)
 
 ## 10. Long-term career coaching
@@ -655,8 +637,10 @@ interested in moving into different domains or accelerating their career traject
 for lifelong learning are critical for sustained career success and should be the responsibility of
 post-secondary institutions to provide.
 
-Coaching rubric: [make.sc/coaching](http://www.make.sc/coaching)  
-Outcomes support: [make.sc/outcomes](http://www.make.sc/outcomes)  
+Coaching rubric: [make.sc/coaching](http://www.make.sc/coaching)
+
+Outcomes support: [make.sc/outcomes](http://www.make.sc/outcomes)
+
 Mentorship program: [make.sc/mentor](http://www.make.sc/mentor)
 
 ## 11. Systemic encoding of principles
@@ -759,7 +743,8 @@ to the future economy. Our feedback loops with industry and our own students wil
 ensuring our institution can keep up with large-scale economic and societal shifts.
 
 Survey of college presidents on fiscal sustainability -
-[www.insidehighered.com/news/...](https://www.insidehighered.com/news/survey/survey-college-presidents-finds-worry-about-public-attitudes-confidence-finances)  
+[www.insidehighered.com/news/...](https://www.insidehighered.com/news/survey/survey-college-presidents-finds-worry-about-public-attitudes-confidence-finances)
+
 Data on efficacy of Ivy League institutions -
 [www.nber.org/papers/w7322](https://www.nber.org/papers/w7322)
 
