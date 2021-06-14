@@ -473,10 +473,10 @@ last mile of our education:
 4.  Performance interventions to uplift struggling students, or further challenge accelerated
     students
 
-| **Building new curriculum**<br><br>Dedicated curriculum team     | **Iterating on existing curriculum** | **Constructing projects**<br><br>Dedicated curriculum team | **Evaluating projects**<br><br>Automate                    |
-| ---------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------- |
-| **One-to-many content delivery**<br><br>Deliver digitally        | **One-to-one topic clarifications**  | **One-to-one problem solving**                             | **One-to-one office hours**<br><br>Leverage mentor network |
-| **Goal setting and prioritization**<br><br>Digital learner tools | **Performance interventions\***      | **Admin, scheduling and reporting**<br><br>Automate        | **Misc tasks**                                             |
+| **Building new curriculum**<br/><br/>Dedicated curriculum team     | **Iterating on existing curriculum** | **Constructing projects**<br/><br/>Dedicated curriculum team | **Evaluating projects**<br/><br/>Automate                    |
+| ------------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **One-to-many content delivery**<br/><br/>Deliver digitally        | **One-to-one topic clarifications**  | **One-to-one problem solving**                               | **One-to-one office hours**<br/><br/>Leverage mentor network |
+| **Goal setting and prioritization**<br/><br/>Digital learner tools | **Performance interventions\***      | **Admin, scheduling and reporting**<br/><br/>Automate        | **Misc tasks**                                               |
 
 This model of education ensures a human-centric and deeply personal experience. The efficiency gains
 from our technology infrastructure will be focused around project evaluation, administrative work,
