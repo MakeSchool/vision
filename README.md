@@ -449,31 +449,12 @@ effectively scale teachers?
 We should start by examining what the role of a teacher is in progressive education. Being a teacher
 requires nearly as broad of a skillset as being an entrepreneur. Teachers build content, manage
 dozens of people, review documents, complete administrative tasks, and more. We categorized the key
-aspects of an instructors job at Make School and found 16 categories:
+aspects of an instructors job at Make School and found 12 core responsibilities:
 
-**Building new curriculum**
-
-**Iterating on existing curriculum**
-
-**Constructing projects**
-
-**Evaluating projects**
-
-**One-to-many content delivery**
-
-**One-to-one topic clarifications**
-
-**One-to-one problem solving**
-
-**One-to-one office hours**
-
-**Goal setting and prioritization**
-
-**Performance interventions\***
-
-**Admin, scheduling and reporting**
-
-**Misc tasks**
+| **Building new curriculum**         | **Iterating on existing curriculum** | **Constructing projects**           | **Evaluating projects**     |
+| ----------------------------------- | ------------------------------------ | ----------------------------------- | --------------------------- |
+| **One-to-many content delivery**    | **One-to-one topic clarifications**  | **One-to-one problem solving**      | **One-to-one office hours** |
+| **Goal setting and prioritization** | **Performance interventions\***      | **Admin, scheduling and reporting** | **Misc tasks**              |
 
 \* applies to learners who are speeding ahead as well as falling behind
 
@@ -492,29 +473,10 @@ last mile of our education:
 4.  Performance interventions to uplift struggling students, or further challenge accelerated
     students
 
-**Building new curriculum** **Dedicated curriculum team**
-
-**Iterating on existing curriculum**
-
-**Constructing projects** **Dedicated curriculum team**
-
-**Evaluating projects** **Automate**
-
-**One-to-many content delivery** **Deliver digitally**
-
-**One-to-one topic clarifications**
-
-**One-to-one problem solving**
-
-**One-to-one office hours** **Leverage mentor network**
-
-**Goal setting and prioritization** **Digital learner tools**
-
-**Performance interventions**
-
-**Admin, scheduling and reporting** **Automate**
-
-**Misc tasks**
+| **Building new curriculum**<br><br>Dedicated curriculum team     | **Iterating on existing curriculum** | **Constructing projects**<br><br>Dedicated curriculum team | **Evaluating projects**<br><br>Automate                    |
+| ---------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| **One-to-many content delivery**<br><br>Deliver digitally        | **One-to-one topic clarifications**  | **One-to-one problem solving**                             | **One-to-one office hours**<br><br>Leverage mentor network |
+| **Goal setting and prioritization**<br><br>Digital learner tools | **Performance interventions\***      | **Admin, scheduling and reporting**<br><br>Automate        | **Misc tasks**                                             |
 
 This model of education ensures a human-centric and deeply personal experience. The efficiency gains
 from our technology infrastructure will be focused around project evaluation, administrative work,
@@ -550,49 +512,49 @@ deep thought and intention. We see great opportunity to improve upon the existin
 development in hopes of developing our students into successful adults and engaged citizens. In the
 near term, we are focused on the following areas:
 
-Consent culture: Issues around sexual harassment and assault are rampant across college campuses and
-the tech industry, and deeply important to fix to ensure gender equality. Cultural norms and media
-propagate an unhealthy culture around dating and sex, especially when involving substances. We hold
-a responsibility to our students to ensure a safe environment for all genders. We are approaching
-this through a combination of preventative education around these issues, endorsement of consent
-culture, and systems for reporting. We don’t feel Title IX regulations do a good enough job of
-preventing incidents or educating students. We plan to share educational content we develop to help
-other institutions reshape culture around consent.
+- **Consent culture**: Issues around sexual harassment and assault are rampant across college
+  campuses and the tech industry, and deeply important to fix to ensure gender equality. Cultural
+  norms and media propagate an unhealthy culture around dating and sex, especially when involving
+  substances. We hold a responsibility to our students to ensure a safe environment for all genders.
+  We are approaching this through a combination of preventative education around these issues,
+  endorsement of consent culture, and systems for reporting. We don’t feel Title IX regulations do a
+  good enough job of preventing incidents or educating students. We plan to share educational
+  content we develop to help other institutions reshape culture around consent.
 
-Mental health: Today’s youth are experiencing greater mental health challenges. These challenges
-often correlate with inconsistent or poor academic performance and are often stigmatized. We
-integrate workshops around mental health into our education aiming to reduce stigma and introduce
-toolsets to help students manage their psychology. Our coaching program helps identify and support
-students going through internal challenges. We offer heavily subsidized mental health and therapy
-consultations - which nearly one-third of our students take advantage of - in addition to escalation
-paths for severe issues
+- **Mental health**: Today’s youth are experiencing greater mental health challenges. These
+  challenges often correlate with inconsistent or poor academic performance and are often
+  stigmatized. We integrate workshops around mental health into our education aiming to reduce
+  stigma and introduce toolsets to help students manage their psychology. Our coaching program helps
+  identify and support students going through internal challenges. We offer heavily subsidized
+  mental health and therapy consultations - which nearly one-third of our students take advantage
+  of - in addition to escalation paths for severe issues
 
-Character development: We’ve deeply integrated character development into our education to better
-prepare students for their careers and broader lives. Students learn about professionalism,
-thoughtful communication, empathy, willpower, mindfulness and honesty. Students are encouraged to
-practice skills through interacting with their peers and the broader community. We hope to build a
-community where people share their stories, feel less alone, plan personal-growth actions and hold
-each other accountable.
+- **Character development**: We’ve deeply integrated character development into our education to
+  better prepare students for their careers and broader lives. Students learn about professionalism,
+  thoughtful communication, empathy, willpower, mindfulness and honesty. Students are encouraged to
+  practice skills through interacting with their peers and the broader community. We hope to build a
+  community where people share their stories, feel less alone, plan personal-growth actions and hold
+  each other accountable.
 
-Diversity, inclusion, and community: Our students come from all around the US (soon all around the
-world) and from all walks of life. Ensuring a culture that promotes diversity and is inclusive of
-all backgrounds and ways of thinking is essential to building a creative and safe environment where
-students can grow. We establish cultural norms and emphasize these values during orientation and
-recurrently throughout the year. We help students understand their biases and emphasize the mission
-and values that unite us all.
+- **Diversity, inclusion, and community**: Our students come from all around the US (soon all around
+  the world) and from all walks of life. Ensuring a culture that promotes diversity and is inclusive
+  of all backgrounds and ways of thinking is essential to building a creative and safe environment
+  where students can grow. We establish cultural norms and emphasize these values during orientation
+  and recurrently throughout the year. We help students understand their biases and emphasize the
+  mission and values that unite us all.
 
-Student life in an urban campus: We’re building our campus to be integrated into San Francisco, a
-city in the midst of a modern renaissance. San Francisco has been leading both a software-driven
-economic revolution and a counter-culture driven social revolution over the past decades. The cities
-booming growth is not without challenges, rising inequality, exorbitant cost of living, and growing
-segregation. We feel such an environment - rather than a discrete campus - is ripe for learning how
-to be an engaged citizen. Students commute through the city from their dorms to our school, finding
-opportunities to engage with the surrounding community. Students have access to tech industry
-events, academic lectures, and arts & culture shows that take place every night across the city.
-Students will take classes on politics and ethics, helping them understand their place in a larger
-ecosystem. We plan to increase expectations for students to be civically engaged, through volunteer
-opportunities and by building software to help power civic initiatives run by city government and
-local organizations.
+- **Student life in an urban campus**: We’re building our campus to be integrated into San
+  Francisco, a city in the midst of a modern renaissance. San Francisco has been leading both a
+  software-driven economic revolution and a counter-culture driven social revolution over the past
+  decades. The cities booming growth is not without challenges, rising inequality, exorbitant cost
+  of living, and growing segregation. We feel such an environment - rather than a discrete campus -
+  is ripe for learning how to be an engaged citizen. Students commute through the city from their
+  dorms to our school, finding opportunities to engage with the surrounding community. Students have
+  access to tech industry events, academic lectures, and arts & culture shows that take place every
+  night across the city. Students will take classes on politics and ethics, helping them understand
+  their place in a larger ecosystem. We plan to increase expectations for students to be civically
+  engaged, through volunteer opportunities and by building software to help power civic initiatives
+  run by city government and local organizations.
 
 Make School Character Development Podcast: [make.sc/podcast](http://www.make.sc/podcast)
 
@@ -674,22 +636,22 @@ overworked team members and new hires.
 
 A few examples of systemic principles at Make School:
 
-EIBR: Offering downside protection for student debt in form of Extended Income Based Repayment
-directly ties Make School’s financial incentives to student success. Our institutional focus is
-forced on outcomes rather than inputs as better outcomes will lead to less money spent on EIBR. This
-incentive also drives us to hold a tight feedback loop with industry and ensure our education stays
-relevant to the needs of the 21st-century economy.
+- **EIBR**: Offering downside protection for student debt in form of Extended Income Based Repayment
+  directly ties Make School’s financial incentives to student success. Our institutional focus is
+  forced on outcomes rather than inputs as better outcomes will lead to less money spent on EIBR.
+  This incentive also drives us to hold a tight feedback loop with industry and ensure our education
+  stays relevant to the needs of the 21st-century economy.
 
-Student Satisfaction: One of our key organizational metrics - which we use to define success of our
-leadership - is a measure of student satisfaction. Expecting leadership to report on this metric
-monthly ensures we collect monthly student feedback, swiftly address student concerns, and
-frequently iterate on our courses.
+- **Student Satisfaction**: One of our key organizational metrics - which we use to define success
+  of our leadership - is a measure of student satisfaction. Expecting leadership to report on this
+  metric monthly ensures we collect monthly student feedback, swiftly address student concerns, and
+  frequently iterate on our courses.
 
-Compensation Equation: We define faculty and staff salaries based on a consistent salary equation
-based on skill and effectiveness. The equation limits negotiations, ensures fair compensation across
-the organization, reduces competitiveness, and increases trust and transparency. It protects our
-values of equity and diversity as we give managers systemic way to avoid implicit bias and ensure
-equal pay across demographics.
+- **Compensation Equation**: We define faculty and staff salaries based on a consistent salary
+  equation based on skill and effectiveness. The equation limits negotiations, ensures fair
+  compensation across the organization, reduces competitiveness, and increases trust and
+  transparency. It protects our values of equity and diversity as we give managers systemic way to
+  avoid implicit bias and ensure equal pay across demographics.
 
 We believe thoughtful design of the systems that power our institution is key to building a
 values-driven organization and ensuring quality at scale. In designing these systems, we must build
@@ -708,39 +670,41 @@ excelling in the workforce, and we are creating upward mobility for a diverse st
 The next phase of our experiment will be more challenging than the first. Over the course of the
 next 5 years we are seeking answers to a series of questions:
 
-Can we maintain quality? As we expand our student body to that of a mid-size private university,
-we’ll face new challenges with our systems of student support, instructor hiring and training, and
-career support, among others. Ensuring our education is a deeply personal and personalized
-experience will grow harder with scale. We must thoughtfully design systems to help uphold our
-values and ensure strong outcomes as we scale to a larger urban campus in San Francisco, and perhaps
-new cities.
+- **Can we maintain quality?** As we expand our student body to that of a mid-size private
+  university, we’ll face new challenges with our systems of student support, instructor hiring and
+  training, and career support, among others. Ensuring our education is a deeply personal and
+  personalized experience will grow harder with scale. We must thoughtfully design systems to help
+  uphold our values and ensure strong outcomes as we scale to a larger urban campus in San
+  Francisco, and perhaps new cities.
 
-Can we achieve long-term fiscal sustainability? With exception of a small handful of private
-universities with near billion dollar endowments, most universities face challenging financial
-predicaments. Non-profit funding can be impacted by macroeconomic cycles.
+- **Can we achieve long-term fiscal sustainability?** With exception of a small handful of private
+  universities with near billion dollar endowments, most universities face challenging financial
+  predicaments. Non-profit funding can be impacted by macroeconomic cycles.
 
-How will alumni careers develop? Our education has proven to result in strong outcomes, with a near
-6 figure average starting salary. Top students have also been selected to join highly exclusive
-teams at top companies and moved into management roles at fast-growing startups. Long-term career
-success usually depends more on communication skills, rigorous professional development, and
-risk-taking rather than technical skills and starting salary. We plan to continually support alumni
-careers to ensure their careers continue to develop in an accelerated fashion.
+- **How will alumni careers develop?** Our education has proven to result in strong outcomes, with a
+  near 6 figure average starting salary. Top students have also been selected to join highly
+  exclusive teams at top companies and moved into management roles at fast-growing startups.
+  Long-term career success usually depends more on communication skills, rigorous professional
+  development, and risk-taking rather than technical skills and starting salary. We plan to
+  continually support alumni careers to ensure their careers continue to develop in an accelerated
+  fashion.
 
-Can we prove efficacy? Most research evaluating efficacy of top institutions has shown their success
-is largely around selection bias rather than quality of education. Our outcomes have proven to be on
-par with top institutions while drawing from a much broader socioeconomic range of students. We want
-to go deeper to prove efficacy, both for individual courses and for career outcomes. We’re looking
-to develop stronger evidence that the classes we teach truly meet our course level and program level
-objectives. We also plan to use doppelgänger studies to compare career of our students to those of
-similar profiles studying at other institutions.
+- **Can we prove efficacy?** Most research evaluating efficacy of top institutions has shown their
+  success is largely around selection bias rather than quality of education. Our outcomes have
+  proven to be on par with top institutions while drawing from a much broader socioeconomic range of
+  students. We want to go deeper to prove efficacy, both for individual courses and for career
+  outcomes. We’re looking to develop stronger evidence that the classes we teach truly meet our
+  course level and program level objectives. We also plan to use doppelgänger studies to compare
+  career of our students to those of similar profiles studying at other institutions.
 
-Can we remain adaptive? The challenges faced by universities today are primarily due to the
-difficulty of directing a large organization to reinvent itself to the needs of modern students and
-employers. Though our education is suitable for today’s environment, we must assume that it won’t be
-suitable for tomorrow’s. We should look to design systems that inspire innovation and allow our
-education and institution to adapt to the psychology of future generations and the skills relevant
-to the future economy. Our feedback loops with industry and our own students will be essential to
-ensuring our institution can keep up with large-scale economic and societal shifts.
+- **Can we remain adaptive?** The challenges faced by universities today are primarily due to the
+  difficulty of directing a large organization to reinvent itself to the needs of modern students
+  and employers. Though our education is suitable for today’s environment, we must assume that it
+  won’t be suitable for tomorrow’s. We should look to design systems that inspire innovation and
+  allow our education and institution to adapt to the psychology of future generations and the
+  skills relevant to the future economy. Our feedback loops with industry and our own students will
+  be essential to ensuring our institution can keep up with large-scale economic and societal
+  shifts.
 
 Survey of college presidents on fiscal sustainability -
 [www.insidehighered.com/news/...](https://www.insidehighered.com/news/survey/survey-college-presidents-finds-worry-about-public-attitudes-confidence-finances)
